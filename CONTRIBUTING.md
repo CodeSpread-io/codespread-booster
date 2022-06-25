@@ -52,7 +52,7 @@ TBD
 ### Security Vulnerabilities
 
 **NOTE**: If you find a security vulnerability, do NOT open an issue.
-Email [Redis Open Source (<oss@redis.com>)](mailto:oss@redis.com) instead.
+Email [CodeSpread Open Source (<oss@codespread.io>)](mailto:oss@codespread.io) instead.
 
 In order to determine whether you are dealing with a security issue, ask
 yourself these two questions:
@@ -64,7 +64,7 @@ yourself these two questions:
 If the answer to either of those two questions are *yes*, then you're
 probably dealing with a security issue. Note that even if you answer
 *no*  to both questions, you may still be dealing with a security
-issue, so if you're unsure, just email [us](mailto:oss@redis.com).
+issue, so if you're unsure, just email [us](mailto:oss@codespread.io).
 
 ### Everything Else
 
